@@ -1,8 +1,10 @@
 # MMLU-ProX: A Multi-Lingual Benchmark for Advanced Large Language Model Evaluation
 <p align="center">
+<!-- 
 <a href="" target='_blank'>
     <img src="">
-  </a>
+</a>
+-->
 <h5 align="center">
     <em>
         <a href="https://scholar.google.com/citations?user=7e0W-2AAAAAJ&hl=en">Weihao Xuan</a><sup>1</sup>, 

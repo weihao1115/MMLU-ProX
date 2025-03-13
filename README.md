@@ -1,4 +1,4 @@
-# MMLU-ProX: A Multi-Lingual Benchmark for Advanced Large Language Model Evaluation
+# MMLU-ProX: A Multilingual Benchmark for Advanced Large Language Model Evaluation
 <p align="center">
 <!-- 
 <a href="" target='_blank'>

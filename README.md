@@ -47,8 +47,8 @@
 _MMLU-ProX_ is a **multilingual** benchmark that builds upon MMLU-Pro, extending to 13 typologically diverse languages, designed to evaluate large language models' reasoning capabilities across linguistic and cultural boundaries.
 
 _MMLU-ProX_ addresses critical limitations in existing multilingual benchmarks by:
-- Building upon the challenging, reasoning-focused design of MMLU-Pro
 - Extending coverage to 13 typologically diverse languages
+- Building upon the challenging, reasoning-focused design of MMLU-Pro
 - Employing a rigorous semi-automatic translation process with expert validation
 - Ensuring conceptual accuracy, terminological consistency, and cultural relevance
 

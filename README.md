@@ -63,4 +63,4 @@ Coming soon.
 Coming soon.
 
 ## Contact
-For questions or feedback about MMLU-ProX, please open an issue or contact the authors at [weihaoxuan@g.ecc.u-tokyo.ac.jp], [ireneli@ds.itc.u-tokyo.ac.jp].
+For questions or feedback about MMLU-ProX, please open an issue.

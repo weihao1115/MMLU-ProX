@@ -28,6 +28,11 @@
         <a href="https://scholar.google.com/citations?user=JuYPjCMAAAAJ&hl=zh-CN">Irene Li</a><sup>1</sup>
     </em>
 </h5>
+</p>
+<p align="center">
+  <a href="https://huggingface.co/datasets/li-lab/MMLU-ProX"><img src="https://img.shields.io/badge/🤗-Hugging%20Face-yellow" alt="Hugging Face"></a>
+  <a href=""><img src="https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b" alt="arXiv"></a>
+</p>
 <p align="center">
     <sup>1</sup>The University of Tokyo, <sup>2</sup>NUS-Duke Medical School, <sup>3</sup>Waseda University,<br>
     <sup>4</sup>Northwestern University, <sup>5</sup>Carnegie Mellon University,<br>
@@ -35,5 +40,27 @@
 </p>
 <p align="center">
 
-# Data Preparation
+## Overview
+
+_MMLU-ProX_ is a **multilingual** benchmark that builds upon MMLU-Pro, extending to 13 typologically diverse languages, designed to evaluate large language models' reasoning capabilities across linguistic and cultural boundaries.
+
+_MMLU-ProX_ addresses critical limitations in existing multilingual benchmarks by:
+- Building upon the challenging, reasoning-focused design of MMLU-Pro
+- Extending coverage to 13 typologically diverse languages
+- Employing a rigorous semi-automatic translation process with expert validation
+- Ensuring conceptual accuracy, terminological consistency, and cultural relevance
+
+## News
+- [March 2025] 🎉 MMLU-ProX is now available on Hugging Face!
+- [March 2025] We are still expanding this dataset to more languages! Stay tuned!
+
+
+## Usage
+
 Coming soon.
+
+## Citation
+Coming soon.
+
+## Contact
+For questions or feedback about MMLU-ProX, please open an issue or contact the authors at [weihaoxuan@g.ecc.u-tokyo.ac.jp], [ireneli@ds.itc.u-tokyo.ac.jp].

@@ -34,7 +34,7 @@
   <a href=""><img src="https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b" alt="arXiv"></a>
 </p>
 <p align="center">
-    <sup>1</sup>The University of Tokyo, <sup>2</sup>NUS-Duke Medical School, <sup>3</sup>Waseda University,<br>
+    <sup>1</sup>The University of Tokyo, <sup>2</sup>Duke-NUS Medical School, <sup>3</sup>Waseda University,<br>
     <sup>4</sup>Northwestern University, <sup>5</sup>Carnegie Mellon University,<br>
     <sup>6</sup>Nanyang Technological University, <sup>7</sup>Yale University, <sup>8</sup>University of Geneva
 </p>

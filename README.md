@@ -33,7 +33,7 @@
 </p>
 <p align="center">
   <a href="https://huggingface.co/datasets/li-lab/MMLU-ProX"><img src="https://img.shields.io/badge/🤗-Hugging%20Face-yellow" alt="Hugging Face"></a>
-  <a href=""><img src="https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2503.10497"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b" alt="arXiv"></a>
 </p>
 <p align="center">
     <sup>1</sup>The University of Tokyo, <sup>2</sup>Duke-NUS Medical School, <sup>3</sup>Waseda University,<br>

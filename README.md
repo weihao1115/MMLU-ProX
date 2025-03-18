@@ -53,16 +53,40 @@ _MMLU-ProX_ addresses critical limitations in existing multilingual benchmarks b
 - Ensuring conceptual accuracy, terminological consistency, and cultural relevance
 
 ## News
+- [March 2025] 🎉 MMLU-ProX's evaluation is now available on lm-evaluation-harness!
 - [March 2025] 🎉 MMLU-ProX is now available on Hugging Face!
 - [March 2025] We are still expanding this dataset to more languages! Stay tuned!
 
 
 ## Usage
+To reproduce the results posted in our paper, we support vLLM evaluation by `lm-evaluation-harness` by the following command:
+```
+model_id=<your-target-model>
+tensor_parallel_size=<number-of-gpu-you-want-to-use>
+lang=<your-target-language>
 
-Coming soon.
+python -m lm_eval \
+  --model vllm \
+  --model_args pretrained=${model_id},tensor_parallel_size=${tensor_parallel_size},dtype=auto,gpu_memory_utilization=0.9 \
+  --batch_size auto \
+  --tasks mmlu_prox_${lang}
+```
+Please refer to [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) for more details about how to setup. 
+
+**Note:** Please install `vllm=0.7.3` to reproduce our results other than `Llama3.1-405B` which is evaluated by `vllm=0.6.6`.
 
 ## Citation
-Coming soon.
+```
+@misc{mmluprox,
+      title={MMLU-ProX: A Multilingual Benchmark for Advanced Large Language Model Evaluation}, 
+      author={Weihao Xuan and Rui Yang and Heli Qi and Qingcheng Zeng and Yunze Xiao and Yun Xing and Junjue Wang and Huitao Li and Xin Li and Kunyu Yu and Nan Liu and Qingyu Chen and Douglas Teodoro and Edison Marrese-Taylor and Shijian Lu and Yusuke Iwasawa and Yutaka Matsuo and Irene Li},
+      year={2025},
+      eprint={2503.10497},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.10497}, 
+}
+```
 
 ## Contact
 For questions or feedback about MMLU-ProX, please open an issue.

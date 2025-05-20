@@ -60,8 +60,8 @@
     <sup>§</sup>Northwestern University, United States, <sup>¶</sup>Carnegie Mellon University, United States,<br>
     <sup>#</sup>Yale University, United States, <sup>♯</sup>University College Dublin, Ireland, <sup>♮</sup>Nanyang Technological University, Singapore,<br>
     <sup>♭</sup>Smartor Inc, Japan, <sup>⊕</sup>University of California, Berkeley, United States, <sup>⊗</sup>University of New South Wales, Australia,<br>
-    <sup>Δ</sup>Singapore Management University, Singapore, <sup>Λ</sup>New York University, United States, <sup>Ω</sup>Polytechnique Montreal, Canada,<br>
-    <sup>Ψ</sup>University of Geneva, Switzerland, <sup>Γ</sup>University of Alberta, Canada
+    <sup>Δ</sup>Singapore Management University, Singapore, <sup>Λ</sup>New York University, United States,<br>
+    <sup>Ω</sup>Polytechnique Montreal, Canada, <sup>Ψ</sup>University of Geneva, Switzerland, <sup>Γ</sup>University of Alberta, Canada
 </p>
 <p align="center">
 

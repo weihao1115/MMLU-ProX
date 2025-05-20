@@ -56,8 +56,8 @@
     <sup>4</sup>Northwestern University, United States, <sup>5</sup>Carnegie Mellon University, United States,<br>
     <sup>6</sup>Yale University, United States, <sup>7</sup>University College Dublin, Ireland, <sup>8</sup>Nanyang Technological University, Singapore,<br>
     <sup>9</sup>Smartor Inc, Japan, <sup>10</sup>University of California, Berkeley, United States, <sup>11</sup>University of New South Wales, Australia,<br>
-    <sup>12</sup>Singapore Management University, Singapore<sup>13</sup>New York University, United States, <sup>14</sup>Polytechnique Montreal, Canada,<br>
-    <sup>15</sup>University of Geneva, Switzerland, <sup>16</sup>University of Alberta, Canada
+    <sup>12</sup>Singapore Management University, Singapore<sup>13</sup>New York University, United States,<br>
+    <sup>14</sup>Polytechnique Montreal, Canada, <sup>15</sup>University of Geneva, Switzerland, <sup>16</sup>University of Alberta, Canada
 </p>
 <p align="center">
 

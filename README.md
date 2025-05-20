@@ -7,57 +7,61 @@
 -->
 <h5 align="center">
     <em> 
-        <a href="https://scholar.google.com/citations?user=7e0W-2AAAAAJ&hl=en">Weihao Xuan</a><sup>1</sup>
-        <a href="https://scholar.google.com/citations?user=aCawmg0AAAAJ&hl=zh-CN">Rui Yang</a><sup>2</sup>
-        <a href="https://scholar.google.com/citations?user=CH-rTXsAAAAJ&hl=en">Heli Qi</a><sup>3</sup>
-        <a href="https://scholar.google.com/citations?user=i0K71KQAAAAJ&hl=en">Qingcheng Zeng</a><sup>4</sup>
-        <a href="https://scholar.google.com.hk/citations?user=95n7XTkAAAAJ&hl=en">Yunze Xiao</a><sup>5</sup>
-        <a href="https://scholar.google.com/citations?user=hFhhrmgAAAAJ&hl=en">Aosong Feng</a><sup>6</sup>
-        <a href="https://scholar.google.com/citations?user=6bOcCh0AAAAJ&hl=zh-CN">Dairui Liu</a><sup>7</sup>
+        <a href="https://scholar.google.com/citations?user=7e0W-2AAAAAJ&hl=en">Weihao Xuan</a><sup>*</sup>
+        <a href="https://scholar.google.com/citations?user=aCawmg0AAAAJ&hl=zh-CN">Rui Yang</a><sup>†</sup>
+        <a href="https://scholar.google.com/citations?user=CH-rTXsAAAAJ&hl=en">Heli Qi</a><sup>‡</sup>
+        <a href="https://scholar.google.com/citations?user=i0K71KQAAAAJ&hl=en">Qingcheng Zeng</a><sup>§</sup>
     <br>
-        <a href="https://scholar.google.com/citations?user=uOAYTXoAAAAJ&hl=en">Yun Xing</a><sup>8</sup>
-        <a href="https://scholar.google.com/citations?user=H58gKSAAAAAJ&hl=en">Junjue Wang</a><sup>1</sup>
-        <a href="https://scholar.google.com/citations?user=TqvMfmoAAAAJ&hl=zh-CN">Fan Gao</a><sup>1</sup>
-        <a href="https://scholar.google.com/citations?user=ZzK_UdYAAAAJ&hl=en">Jinghui Lu</a><sup>9</sup>
-        <a href="">Yuang Jiang</a><sup>9</sup>
-        <a href="">Huitao Li</a><sup>2</sup>
-        <a href="">Xin Li</a><sup>2</sup>
-        <a href="https://www.researchgate.net/profile/Kunyu-Yu-2">Kunyu Yu</a><sup>2</sup>
+        <a href="https://scholar.google.com.hk/citations?user=95n7XTkAAAAJ&hl=en">Yunze Xiao</a><sup>¶</sup>
+        <a href="https://scholar.google.com/citations?user=hFhhrmgAAAAJ&hl=en">Aosong Feng</a><sup>#</sup>
+        <a href="https://scholar.google.com/citations?user=6bOcCh0AAAAJ&hl=zh-CN">Dairui Liu</a><sup>♯</sup>
+        <a href="https://scholar.google.com/citations?user=uOAYTXoAAAAJ&hl=en">Yun Xing</a><sup>♮</sup>
     <br>
-        <a href="https://scholar.google.com/citations?user=icGRQ68AAAAJ&hl=zh-CN">Ruihai Dong</a><sup>7</sup>
-        <a href="https://scholar.google.com.hk/citations?user=E1GCDXUAAAAJ&hl=zh-CN">Shangding Gu</a><sup>10</sup>
-        <a href="https://scholar.google.com/citations?user=tuJEDb4AAAAJ&hl=en">Yuekang Li</a><sup>11</sup>
-        <a href="https://scholar.google.com/citations?user=FfcZfJgAAAAJ&hl=zh-CN">Xiaofei Xie</a><sup>12</sup>
-        <a href="https://scholar.google.com/citations?user=dgN8vtwAAAAJ&hl=zh-CN">Felix Juefei-Xu</a><sup>13</sup>
-        <a href="https://scholar.google.com/citations?user=YYXb3KIAAAAJ&hl=en">Foutse Khomh</a><sup>14</sup>
+        <a href="https://scholar.google.com/citations?user=H58gKSAAAAAJ&hl=en">Junjue Wang</a><sup>*</sup>
+        <a href="https://scholar.google.com/citations?user=TqvMfmoAAAAJ&hl=zh-CN">Fan Gao</a><sup>*</sup>
+        <a href="https://scholar.google.com/citations?user=ZzK_UdYAAAAJ&hl=en">Jinghui Lu</a><sup>♭</sup>
+        <a href="">Yuang Jiang</a><sup>♭</sup>
     <br>
-        <a href="https://scholar.google.co.jp/citations?user=YLA5LwEAAAAJ&hl=ja">Osamu Yoshie</a><sup>3</sup>
-        <a href="https://scholar.google.com/citations?user=FSLotiMAAAAJ&hl=en">Qingyu Chen</a><sup>6</sup>
-        <a href="https://scholar.google.com/citations?user=bDgzTucAAAAJ&hl=en">Douglas Teodoro</a><sup>15</sup>
-        <a href="https://scholar.google.com/citations?user=ceF698kAAAAJ&hl=zh-CN">Nan Liu</a><sup>2</sup>
-        <a href="https://scholar.google.ca/citations?user=fTgRyn4AAAAJ&hl=en">Randy Goebel</a><sup>16</sup>
-   <br>
-        <a href="https://scholar.google.com/citations?user=xsfGc58AAAAJ&hl=en">Lei Ma</a><sup>1</sup>
-        <a href="https://scholar.google.com/citations?hl=es&user=uK_esCgAAAAJ">Edison Marrese-Taylor</a><sup>1</sup>
-        <a href="https://scholar.google.com/citations?user=uYmK-A0AAAAJ&hl=en">Shijian Lu</a><sup>8</sup>
-        <a href="https://scholar.google.co.jp/citations?user=nRLaJiQAAAAJ&hl=ja">Yusuke Iwasawa</a><sup>1</sup>
-        <a href="https://scholar.google.co.jp/citations?user=Dy8iau4AAAAJ&hl=ja">Yutaka Matsuo</a><sup>1</sup>
-        <a href="https://scholar.google.com/citations?user=JuYPjCMAAAAJ&hl=zh-CN">Irene Li</a><sup>1</sup>
+        <a href="">Huitao Li</a><sup>†</sup>
+        <a href="">Xin Li</a><sup>†</sup>
+        <a href="https://www.researchgate.net/profile/Kunyu-Yu-2">Kunyu Yu</a><sup>†</sup>
+        <a href="https://scholar.google.com/citations?user=icGRQ68AAAAJ&hl=zh-CN">Ruihai Dong</a><sup>♯</sup>
+    <br>
+        <a href="https://scholar.google.com.hk/citations?user=E1GCDXUAAAAJ&hl=zh-CN">Shangding Gu</a><sup>⊕</sup>
+        <a href="https://scholar.google.com/citations?user=tuJEDb4AAAAJ&hl=en">Yuekang Li</a><sup>⊗</sup>
+        <a href="https://scholar.google.com/citations?user=FfcZfJgAAAAJ&hl=zh-CN">Xiaofei Xie</a><sup>Δ</sup>
+        <a href="https://scholar.google.com/citations?user=dgN8vtwAAAAJ&hl=zh-CN">Felix Juefei-Xu</a><sup>Λ</sup>
+    <br>
+        <a href="https://scholar.google.com/citations?user=YYXb3KIAAAAJ&hl=en">Foutse Khomh</a><sup>Ω</sup>
+        <a href="https://scholar.google.co.jp/citations?user=YLA5LwEAAAAJ&hl=ja">Osamu Yoshie</a><sup>‡</sup>
+        <a href="https://scholar.google.com/citations?user=FSLotiMAAAAJ&hl=en">Qingyu Chen</a><sup>#</sup>
+        <a href="https://scholar.google.com/citations?user=bDgzTucAAAAJ&hl=en">Douglas Teodoro</a><sup>Ψ</sup>
+    <br>
+        <a href="https://scholar.google.com/citations?user=ceF698kAAAAJ&hl=zh-CN">Nan Liu</a><sup>†</sup>
+        <a href="https://scholar.google.ca/citations?user=fTgRyn4AAAAJ&hl=en">Randy Goebel</a><sup>Γ</sup>
+        <a href="https://scholar.google.com/citations?user=xsfGc58AAAAJ&hl=en">Lei Ma</a><sup>*</sup>
+        <a href="https://scholar.google.com/citations?hl=es&user=uK_esCgAAAAJ">Edison Marrese-Taylor</a><sup>*</sup>
+    <br>
+        <a href="https://scholar.google.com/citations?user=uYmK-A0AAAAJ&hl=en">Shijian Lu</a><sup>♮</sup>
+        <a href="https://scholar.google.co.jp/citations?user=nRLaJiQAAAAJ&hl=ja">Yusuke Iwasawa</a><sup>*</sup>
+        <a href="https://scholar.google.co.jp/citations?user=Dy8iau4AAAAJ&hl=ja">Yutaka Matsuo</a><sup>*</sup>
+        <a href="https://scholar.google.com/citations?user=JuYPjCMAAAAJ&hl=zh-CN">Irene Li</a><sup>*</sup>
     </em>
 </h5>
-</p>
+
 <p align="center">
   <a href="https://huggingface.co/datasets/li-lab/MMLU-ProX"><img src="https://img.shields.io/badge/🤗-Full%20Version-yellow" alt="Full Version"></a>
-<a href="https://huggingface.co/datasets/li-lab/MMLU-ProX-Lite"><img src="https://img.shields.io/badge/🤗-Lite%20Version-yellow" alt="Full Version"></a>
+  <a href="https://huggingface.co/datasets/li-lab/MMLU-ProX-Lite"><img src="https://img.shields.io/badge/🤗-Lite%20Version-yellow" alt="Full Version"></a>
   <a href="https://arxiv.org/abs/2503.10497"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b" alt="arXiv"></a>
 </p>
+
 <p align="center">
-    <sup>1</sup>The University of Tokyo, Japan, <sup>2</sup>Duke-NUS Medical School, Singapore,<sup>3</sup>Waseda University, Japan,<br>
-    <sup>4</sup>Northwestern University, United States, <sup>5</sup>Carnegie Mellon University, United States,<br>
-    <sup>6</sup>Yale University, United States, <sup>7</sup>University College Dublin, Ireland, <sup>8</sup>Nanyang Technological University, Singapore,<br>
-    <sup>9</sup>Smartor Inc, Japan, <sup>10</sup>University of California, Berkeley, United States, <sup>11</sup>University of New South Wales, Australia,<br>
-    <sup>12</sup>Singapore Management University, Singapore<sup>13</sup>New York University, United States,<br>
-    <sup>14</sup>Polytechnique Montreal, Canada, <sup>15</sup>University of Geneva, Switzerland, <sup>16</sup>University of Alberta, Canada
+    <sup>*</sup>The University of Tokyo, Japan, <sup>†</sup>Duke-NUS Medical School, Singapore, <sup>‡</sup>Waseda University, Japan,<br>
+    <sup>§</sup>Northwestern University, United States, <sup>¶</sup>Carnegie Mellon University, United States,<br>
+    <sup>#</sup>Yale University, United States, <sup>♯</sup>University College Dublin, Ireland, <sup>♮</sup>Nanyang Technological University, Singapore,<br>
+    <sup>♭</sup>Smartor Inc, Japan, <sup>⊕</sup>University of California, Berkeley, United States, <sup>⊗</sup>University of New South Wales, Australia,<br>
+    <sup>Δ</sup>Singapore Management University, Singapore, <sup>Λ</sup>New York University, United States, <sup>Ω</sup>Polytechnique Montreal, Canada,<br>
+    <sup>Ψ</sup>University of Geneva, Switzerland, <sup>Γ</sup>University of Alberta, Canada
 </p>
 <p align="center">
 

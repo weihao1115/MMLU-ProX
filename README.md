@@ -77,7 +77,7 @@ _MMLU-ProX_ addresses critical limitations in existing multilingual benchmarks b
 
 ## News
 - [2025/08] 🎉 MMLU-ProX was accepted by EMNLP 2025 (Main)!
-- [2025/05] MMLU-ProX now contains 29 languages, all available on Huggingface! We provide both lite version and full version! We will update the paper soon!
+- [2025/05] MMLU-ProX now contains 29 languages, all available on Huggingface! We provide both a lite version and a full version.
 - [2025/03] MMLU-ProX's evaluation is now available on lm-evaluation-harness!
 - [2025/03] MMLU-ProX is now available on Hugging Face!
 - [2025/03] We are still expanding this dataset to more languages! Stay tuned!

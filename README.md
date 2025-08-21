@@ -84,6 +84,9 @@ _MMLU-ProX_ addresses critical limitations in existing multilingual benchmarks b
 
 
 ## Usage
+Please check the pull request here: https://github.com/EleutherAI/lm-evaluation-harness/tree/29908e669b51c4f25740501afb411894a9e1cf60/lm_eval/tasks/mmlu_prox. It contains all 29 langauges.
+
+We are working on a new evaluation system beyond `lm-evaluation-harness`, please stay tuned. 
 To reproduce the results posted in our paper, we support vLLM evaluation by `lm-evaluation-harness` by the following command:
 ```
 model_id=<your-target-model>

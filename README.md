@@ -102,14 +102,11 @@ Please refer to [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluat
 
 ## Citation
 ```
-@misc{xuan2025mmluprox,
-      title={MMLU-ProX: A Multilingual Benchmark for Advanced Large Language Model Evaluation}, 
-      author={Weihao Xuan and Rui Yang and Heli Qi and Qingcheng Zeng and Yunze Xiao and Aosong Feng and Dairui Liu and Yun Xing and Junjue Wang and Fan Gao and Jinghui Lu and Yuang Jiang and Huitao Li and Xin Li and Kunyu Yu and Ruihai Dong and Shangding Gu and Yuekang Li and Xiaofei Xie and Felix Juefei-Xu and Foutse Khomh and Osamu Yoshie and Qingyu Chen and Douglas Teodoro and Nan Liu and Randy Goebel and Lei Ma and Edison Marrese-Taylor and Shijian Lu and Yusuke Iwasawa and Yutaka Matsuo and Irene Li},
-      year={2025},
-      eprint={2503.10497},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2503.10497}, 
+@article{xuan2025mmluprox,
+  title={Mmlu-prox: A multilingual benchmark for advanced large language model evaluation},
+  author={Xuan, Weihao and Yang, Rui and Qi, Heli and Zeng, Qingcheng and Xiao, Yunze and Feng, Aosong and Liu, Dairui and Xing, Yun and Wang, Junjue and Gao, Fan and others},
+  journal={arXiv preprint arXiv:2503.10497},
+  year={2025}
 }
 ```
 

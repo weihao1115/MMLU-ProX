@@ -76,7 +76,7 @@ _MMLU-ProX_ addresses critical limitations in existing multilingual benchmarks b
 - Ensuring conceptual accuracy, terminological consistency, and cultural relevance
 
 ## News
-- [2025/08] 🎉 MMLU-ProX was accepted by EMNLP 2025 (Main)!
+- [2025/08] 🎉 MMLU-ProX was accepted by EMNLP 2025 (Main)! We are working on more languages for the second version. Stay tuned!
 - [2025/05] MMLU-ProX now contains 29 languages, all available on Huggingface! We provide both a lite version and a full version.
 - [2025/03] MMLU-ProX's evaluation is now available on lm-evaluation-harness!
 - [2025/03] MMLU-ProX is now available on Hugging Face!
@@ -84,10 +84,7 @@ _MMLU-ProX_ addresses critical limitations in existing multilingual benchmarks b
 
 
 ## Usage
-Please check the pull request here: https://github.com/EleutherAI/lm-evaluation-harness/tree/29908e669b51c4f25740501afb411894a9e1cf60/lm_eval/tasks/mmlu_prox. It contains all 29 languages.
-
-We are working on a new evaluation system beyond `lm-evaluation-harness`, please stay tuned. 
-To reproduce the results posted in our paper, we support vLLM evaluation by `lm-evaluation-harness` by the following command:
+To reproduce the results posted in our paper, we support vLLM evaluation by `lm-evaluation-harness` ([Here](https://github.com/EleutherAI/lm-evaluation-harness/tree/main/lm_eval/tasks/mmlu_prox)) by the following command:
 ```
 model_id=<your-target-model>
 tensor_parallel_size=<number-of-gpu-you-want-to-use>
@@ -105,7 +102,7 @@ Please refer to [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluat
 
 ## Citation
 ```
-@misc{xuan2025mmluproxmultilingualbenchmarkadvanced,
+@misc{xuan2025mmluprox,
       title={MMLU-ProX: A Multilingual Benchmark for Advanced Large Language Model Evaluation}, 
       author={Weihao Xuan and Rui Yang and Heli Qi and Qingcheng Zeng and Yunze Xiao and Aosong Feng and Dairui Liu and Yun Xing and Junjue Wang and Fan Gao and Jinghui Lu and Yuang Jiang and Huitao Li and Xin Li and Kunyu Yu and Ruihai Dong and Shangding Gu and Yuekang Li and Xiaofei Xie and Felix Juefei-Xu and Foutse Khomh and Osamu Yoshie and Qingyu Chen and Douglas Teodoro and Nan Liu and Randy Goebel and Lei Ma and Edison Marrese-Taylor and Shijian Lu and Yusuke Iwasawa and Yutaka Matsuo and Irene Li},
       year={2025},
